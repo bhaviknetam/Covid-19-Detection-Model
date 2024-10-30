@@ -1,0 +1,10 @@
+kagglehub
+tensorflow==2.15.0
+scikit-learn
+matplotlib
+pillow
+numpy
+pathlib
+seaborn
+streamlit
+streamlit_option_menu
